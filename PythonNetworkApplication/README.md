@@ -1,6 +1,6 @@
 #Python Networking Project
 
-TODO -explain how the project works
+TODO - explain how the project works
 TODO - explain what each file means
 TODO - not fully baked yet.
 TODO - list what Python modules/libraries you will need that are not built in - for now, see the import statements in the scripts.
@@ -17,3 +17,4 @@ So, how do I use this?
 3. add your creds to the user.txt, the commands you want to run on your servers to cmd.txt, and your ip.txt - put the ip addresses of your servers.
 Run the NetworkApp.py script - it will prompt you for the location of your files
 once your application is up and running, run the graph.py script - this will show you the CPU load of your server(s)
+Note - I created and ran all of this in Eclipse - just so you know.
